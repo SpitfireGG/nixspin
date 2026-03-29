@@ -1,15 +1,27 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SpitfireGG/nixspin/main/assets/nixspin.png" alt="nixspin logo" width="300" />
+  <img src="https://raw.githubusercontent.com/SpitfireGG/nixspin/main/assets/nixspin.png" alt="nixspin logo" width="250" />
   <h1>nixspin</h1>
 </div>
 
-[![Nix Version](https://img.shields.io/badge/Nix-2.24.12-blue?logo=nixos&logoColor=white)](https://nixos.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<div align="center">
+
+### Are you tired of blindly copy-pasting other people's NixOS configs?
+
+**Well, you dont have to worry no more!!**
+<br>
+_I did too... but now I don't. (And you won't have to either.)_
+
+</div>
+
+## What is nixspin?
 
 **nixspin** is a hands-on learning path for the Nix programming language. It provides structured exercises to build practical Nix skills without banging your head going through scattered documentation.
 
 If you've struggled to find clear, exercise-driven resources for learning Nix, this is for you.
+
+## Why nixspin?
+
+I meticously crafted the **nixspin** repo so that people like who had trouble learning the nix programming language learn about it,written in an in-depth way. This repo contains all the things i have learned over time reading from different sources & documentations, flattened into one source with exercises that helped me learn NIX better, so you can too :).
 
 ---
 
@@ -89,7 +101,7 @@ Most Nix resources are either:
 **nixspin focuses on:**
 
 - Progressive learning (each chapter builds on previous ones)
-- Hands-on practice (edit code, get immediate feedback)
+- Hands-on practice
 - Language fundamentals (understand Nix itself, not just copy-paste configs)
 
 ---
