@@ -1,4 +1,6 @@
-#  nixspin ❄️ 
+# nixspin
+
+<img src="/home/archbishop/Downloads/Qf1K4.svg" width="180" alt="Nix Learning Repo Logo">
 
 Welcome to nixspin.</br>
 nixspin is a repo dedicated for beginners and intermediate nix & nixos users to gain more ensight on the Nix programming language. This documentation covers all the core areas of the nix programming language along with some exercises to actually learn Nix through practice
@@ -14,35 +16,43 @@ nixspin is a repo dedicated for beginners and intermediate nix & nixos users to 
 ## 🚀 Getting Started
 
 ### Getting Started
+
 - Writing first program, Hello world (covered in ch00)
 
 ### Core Concepts
+
 - Data types (covered in ch01)
 
 ### Data Structures
+
 - Sets (covered in ch02)
 - Lists (covered in ch03)
 
 ### Functional Programming
+
 - Functions - Extended (covered in ch04)
 
 ### Lazy & Strict evaluations
+
 - Lazy Evaluation (covered in ch05)
 
 ### Advanced Features
+
 - Set attribute selection, inheritance and merging (covered in ch06)
 - Working with files & paths (covered in ch07)
 - Debugging & Tracing (covered in ch08)
 
 ### Ecosystem Integration
+
 - Working with common libraries (covered in ch09)
 - Working with Module system utilities (covered in ch10)
-- Understanding function signatures (covered in ch11)
+- Working with Derivations (covered in ch11)
 
 ### 🛠 Practical Usage
+
 - File System Operations
 - Lazy Evaluation Patterns
-- Debugging Techniques 
+- Debugging Techniques
 
 <details>
 <summary>Future contents & ongoing progress</summary>
@@ -56,9 +66,8 @@ nixspin is a repo dedicated for beginners and intermediate nix & nixos users to 
 
 </details>
 
-
-
 ## 💡 Why This Guide?
+
 ---
 
 <div align="center">
@@ -66,16 +75,17 @@ Learning Path
 </div>
 
 focuses on practical understanding over theoretical perfection:
+
 - Learn essential concepts with clear examples
 - Build skills progressively
 - Avoid common pitfalls
 - Learn what you'll actually use
 
 ```nix
-# official docs & other resources 
+# official docs & other resources
 recursive_learning = throw "confusion";
 
-# this repo focuses on 
+# this repo focuses on
 learning_path = lib.foldl (acc: x -> acc + x) 0 [
   "clarity"
   "examples"
@@ -87,10 +97,9 @@ learning_path = lib.foldl (acc: x -> acc + x) 0 [
 
 You can **contibute** to the repo for beginners and intermediates to learn actively, you'r contributions **matter**:
 If you:
-    **Found a bug?** Open an Issue
-    **Got an idea?** Suggest Content
-    **Fixed a typo?** Submit PR
-
+**Found a bug?** Open an Issue
+**Got an idea?** Suggest Content
+**Fixed a typo?** Submit PR
 
 <div align="center">
 🔧 Under Active Development</br>
