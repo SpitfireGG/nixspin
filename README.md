@@ -112,7 +112,7 @@ Contributions are welcome. If you:
 - **Have an idea for new content?** → [Suggest it](https://github.com/SpitfireGG/nixspin/issues)
 - **Fixed something?** → [Submit a PR](https://github.com/SpitfireGG/nixspin/pulls)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](https://github.com/spitfireGG/nixspin/main/docs/CONTRIBUTING.md) for guidelines.
 
 ---
 
