@@ -1,6 +1,7 @@
-# nixspin
-
-![nixspin logo](https://raw.githubusercontent.com/SpitfireGG/nixspin/main/assets/nixspin.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SpitfireGG/nixspin/main/assets/nixspin.png" alt="nixspin logo" width="300" />
+  <h1>nixspin</h1>
+</div>
 
 [![Nix Version](https://img.shields.io/badge/Nix-2.24.12-blue?logo=nixos&logoColor=white)](https://nixos.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
