@@ -7,21 +7,19 @@
 
 ### Are you tired of blindly copy-pasting other people's NixOS configs?
 
-**Well, you dont have to worry no more!!**
+**I did too... but now I don't. (And you won't have to either.)**
 <br>
-_I did too... but now I don't. (And you won't have to either.)_
-
 </div>
 
 ## What is nixspin?
 
-**nixspin** is a hands-on learning path for the Nix programming language. It provides structured exercises to build practical Nix skills without banging your head going through scattered documentation.
+**nixspin** is rustling inspired hands-on learning path for the Nix programming language. It provides structured exercises to build practical Nix skills without banging your head going through scattered documentation.
 
 If you've struggled to find clear, exercise-driven resources for learning Nix, this is for you.
 
 ## Why nixspin?
 
-I meticously crafted the **nixspin** repo so that people like who had trouble learning the nix programming language learn about it,written in an in-depth way. This repo contains all the things i have learned over time reading from different sources & documentations, flattened into one source with exercises that helped me learn NIX better, so you can too :).
+I meticously crafted the **nixspin** repo so that people like who had trouble learning the nix programming language learn about it,written in an in-depth way. This repo contains all the things i have learned over time reading from different sources & documentations, flattened into one source with exercises that helped me learn NIX better, so you can too :). After covering all the chapters you will be able to write your nixos configurations and use the NIX Repl on your own.
 
 ---
 
